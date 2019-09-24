@@ -1,5 +1,19 @@
 <resources>
     <string name="app_name">Academy</string>
-    <string name="home_activity" >Home Activity</string>
+    <string name="home_activity">Home Activity</string>
     <string name="see_character">SEE CHARACTER</string>
+    <string name="description">Description:</string>
+    <string name="character_name">Character Name</string>
+    <string name="character_image">Character Image</string>
+    <string name="description_body">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque dictum sed purus ac pellentesque. Fusce ac diam augue. Sed quam erat, fringilla at metus sit amet, sollicitudin viverra massa. Aenean auctor sit amet enim a tincidunt. In ac elit sed nisl ornare fringilla eget non nibh. Curabitur a tortor et quam fermentum fringilla sed ac quam. Duis sodales lectus et elit tempus, et tristique nisi sodales. Aenean congue laoreet lectus, sed semper metus blandit at. In laoreet dignissim dolor, id sollicitudin odio volutpat sit amet.
+
+Curabitur efficitur lacinia orci, ac vestibulum nunc dignissim aliquet. Aliquam lacinia dolor lacus, eget condimentum quam ullamcorper eget. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris neque enim, pretium sit amet sagittis sed, dapibus a justo. Quisque rutrum libero nulla, vel tincidunt nisl auctor sit amet. Nulla lectus mi, vulputate vitae ante non, sollicitudin porttitor ligula. In vestibulum lorem et justo cursus, sit amet feugiat magna ullamcorper. Nullam nisl arcu, mollis sed augue non, cursus elementum nisi. In nisi elit, convallis quis scelerisque ac, consequat sed augue. Morbi eleifend, lacus sagittis blandit fringilla, orci ligula iaculis orci, vitae semper ante neque sit amet augue. Duis pretium fermentum nunc ac scelerisque. Nullam sit amet urna non leo tincidunt ultrices in quis erat. In enim felis, pharetra eget lectus quis, ornare malesuada nibh. Nullam turpis nisl, vulputate at fringilla nec, vestibulum ut elit. In vestibulum diam et enim tempor, sit amet tincidunt ex tristique.
+
+Etiam sollicitudin, lorem at faucibus posuere, diam libero mattis nulla, id gravida est dolor eget erat. Morbi finibus ligula et orci bibendum, sit amet iaculis dui pulvinar. Vivamus efficitur lorem ac mi ultricies viverra. Morbi mi risus, blandit eget facilisis id, maximus id libero. In sed laoreet ante. Aenean nunc erat, auctor eget semper eu, commodo a nulla. Curabitur accumsan fermentum imperdiet. Duis blandit sagittis sapien id accumsan. Donec pharetra lorem dictum tempus euismod. Mauris mollis pulvinar nisi, eget congue purus pulvinar non. Morbi id finibus lorem. Nulla facilisi. Etiam sit amet elit faucibus nulla maximus gravida et in sem. Sed mollis ornare nulla sit amet fringilla. Donec placerat mi est, hendrerit rhoncus sapien suscipit eget. Fusce quis sem vel erat suscipit blandit ullamcorper ornare turpis.
+
+Maecenas et libero augue. Nullam in ultricies nulla, et tempus sem. Sed at mattis ipsum. Sed arcu sapien, consectetur ac mi vel, accumsan egestas ipsum. Nunc hendrerit, velit sed maximus finibus, dui purus mattis sem, quis gravida massa velit eget nisi. Maecenas at placerat tellus. Vestibulum efficitur neque ac diam ornare, id varius nisl pharetra. Integer in lacus tempor, ultrices dolor id, porttitor augue.
+
+Sed eu est nec leo condimentum sodales a at dolor. Morbi tincidunt, arcu a euismod molestie, lectus dui efficitur leo, nec scelerisque purus urna sit amet risus. Nam molestie lacus ac nulla tristique, sed laoreet nulla dapibus. Suspendisse imperdiet varius arcu vitae porta. Praesent lacus tellus, semper vel luctus et, ullamcorper ut justo. Vivamus maximus justo maximus varius volutpat. Aenean eleifend at felis eget luctus. Nam consequat ultrices elit, nec bibendum ligula rhoncus in. Cras tristique urna at mauris tempor, mattis ultricies felis posuere. Quisque lorem lectus, lobortis ac nunc at, euismod tincidunt magna. Duis ac purus ex. Maecenas eget pulvinar nisl.
+    </string>
 </resources>

@@ -1,9 +1,8 @@
-package com.wizeline.academy
+package com.wizeline.academy.Home
 
-import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import kotlinx.android.synthetic.main.activity_main.*
+import com.wizeline.academy.R
 
 class MainActivity : AppCompatActivity() {
 
@@ -11,8 +10,5 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        button.setOnClickListener {
-            startActivity(Intent(this, CharacterDetailsActivity::class.java))
-        }
     }
 }
